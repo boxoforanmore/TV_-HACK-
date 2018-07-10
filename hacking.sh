@@ -229,4 +229,4 @@ cat << "EOS5"
 EOS5
 sleep 10
 
-exit 666
+exit 0

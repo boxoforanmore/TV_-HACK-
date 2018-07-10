@@ -1,2 +1,2 @@
 language: "bash"
-script: "hacking.sh"
+script: "./hacking.sh"

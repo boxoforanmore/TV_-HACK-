@@ -227,6 +227,6 @@ cat << "EOS5"
  /    /  -hrr-   /    |     /    ) 
  `---'          '----'      `---'
 EOS5
-sleep 10000
+sleep 10
 
 exit 666
